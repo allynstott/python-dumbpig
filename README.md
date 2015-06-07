@@ -13,7 +13,7 @@ On CentOS 6/7, installation is as follows:
 ```
 sudo yum install perl-CPAN perl-libwww-perl perl-Class-Accessor
 sudo cpan -i "Parse::Snort"
-git clone git@github.com:leonward/dumbpig.git
+git clone git@github.com:allynstott/dumbpig.git
 sudo ln -s dumbpig/dumbpig.pl /usr/local/bin/dumbpig.pl
 git clone git@github.com:allynstott/python-dumbpig.git
 cd python-dumbpig
